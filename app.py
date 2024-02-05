@@ -65,7 +65,7 @@ with st.expander("PROJECT DETAILS"):
              'Firstly obtained their confusion matrices, then calculated their accuracy, precision and recall scores.'
              'Comparison table is below:')
     st.table(ml.df_results)
-       st.write('GB --> Gaussian Neive Bayes')  
+    st.write('GB --> Gaussian Neive Bayes')  
     st.write('SVM --> Support Vector Machine')
     st.write('DT --> Decision Tree')
     st.write('RF --> Random Forest')
