@@ -75,9 +75,9 @@ with st.expander("PROJECT DETAILS"):
 
 with st.expander('EXAMPLE PHISHING URLs:'):
     st.write('https://agricole-connect.pages.dev/')
-    st.write('https://tmyvs.blogspot.ug/')
-    st.write('https://pgesc0nfrmaccsslog.github.io/')
-    st.write('https://mungtgsndj.weebly.com/')
+    st.write('https://tmyvsij_blogspot.ug/')
+    st.write('https://pgesc0nf-lrmaccsslog.github.io/')
+    st.write('https://mungtgsndj-8weebly.com/')
 
 choice = st.selectbox("Please select your machine learning model",
                  [
