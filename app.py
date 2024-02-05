@@ -81,7 +81,7 @@ with st.expander('EXAMPLE PHISHING URLs:'):
 
 choice = st.selectbox("Please select your machine learning model",
                  [
-                     'Gaussian Naive Bayes' 'Support Vector Machine', 'Decision Tree', 'Random Forest',
+                     'Gaussian Naive Bayes','Support Vector Machine', 'Decision Tree', 'Random Forest',
                      'AdaBoost', 'K-Neighbours'
                  ]
                 )
